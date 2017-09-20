@@ -286,3 +286,11 @@ require get_template_directory() . '/inc/jetpack.php';
  * Load plugin enhancement file to display admin notices.
  */
 require get_template_directory() . '/inc/plugin-enhancements.php';
+
+function CAB_add_google_fonts() {
+  wp_register_style('CAB-google-fonts', 'http://fonts.googleapis.com/css?family=Raleway:700|Rokkitt:200,700');
+  wp_enqueue_style('CAB-google-fonts');
+}
+
+add_action('wp_print_styles', 'CAB_add_google_fonts');
+
