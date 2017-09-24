@@ -293,4 +293,3 @@ function CAB_add_google_fonts() {
 }
 
 add_action('wp_print_styles', 'CAB_add_google_fonts');
-

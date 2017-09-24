@@ -1,0 +1,188 @@
+0000.005 (0) Opened log file at time: Sun, 24 Sep 2017 15:33:06 +0000 on http://chessacrossborders.azurewebsites.net
+0000.024 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.7 WP: 4.8.2 PHP: 5.6.31 (cgi-fcgi, Windows NT RD00155DFCBCC2 6.2 build 9200 (Windows Server 2012 Datacenter Edition) i586) MySQL: 5.7.9 WPLANG: en_US Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.5M | 4.8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.075 (0) Free space on disk containing Updraft's temporary directory: 584.3 MB
+0000.103 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.186 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.519 (0) Set semaphore last lock (fd) time to 2017-09-24 15:33:06
+0000.543 (0) Semaphore lock (fd) complete
+0000.618 (0) Backup run: resumption=0, nonce=bf8f755441d1, begun at=1506267186 (1s ago), job type=backup
+0000.649 (0) Scheduling a resumption (1) after 300 seconds (1506267487) in case this run gets aborted
+0001.104 (0) Checking if we have a zip executable available
+0001.148 (0) Creation of backups of directories: beginning
+0001.262 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0028.209 (0) Total entities for the zip file: 437 directories, 2673 files (0 skipped as non-modified), 35.4 MB
+0028.274 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0028.817 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 100 files added (on-disk size: 73.6 KB)
+0029.378 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 200 files added (on-disk size: 73.6 KB)
+0029.776 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 300 files added (on-disk size: 73.6 KB)
+0030.208 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 400 files added (on-disk size: 73.6 KB)
+0030.578 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.5 MB, 466 (467) files added so far); re-opening (prior size: 73.6 KB)
+0043.796 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 500 files added (on-disk size: 2966.7 KB)
+0044.434 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 600 files added (on-disk size: 2966.7 KB)
+0044.946 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 700 files added (on-disk size: 2966.7 KB)
+0045.497 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 800 files added (on-disk size: 2966.7 KB)
+0046.018 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 900 files added (on-disk size: 2966.7 KB)
+0046.423 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.2 MB, 2673 files batched, 501 (968) added so far); re-opening (prior size: 2966.7 KB)
+0055.148 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 1000 files added (on-disk size: 4168.4 KB)
+0055.755 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 1100 files added (on-disk size: 4168.4 KB)
+0056.462 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 1200 files added (on-disk size: 4168.4 KB)
+0057.047 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 1300 files added (on-disk size: 4168.4 KB)
+0057.557 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 1400 files added (on-disk size: 4168.4 KB)
+0057.626 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.6 MB, 433 (1401) files added so far); re-opening (prior size: 4168.4 KB)
+0070.149 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 1500 files added (on-disk size: 6124.3 KB)
+0070.725 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 1600 files added (on-disk size: 6124.3 KB)
+0071.189 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 1700 files added (on-disk size: 6124.3 KB)
+0071.873 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 1800 files added (on-disk size: 6124.3 KB)
+0072.475 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 1900 files added (on-disk size: 6124.3 KB)
+0072.530 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.3 MB, 2673 files batched, 501 (1902) added so far); re-opening (prior size: 6124.3 KB)
+0088.579 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 2000 files added (on-disk size: 10575.5 KB)
+0089.219 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 2100 files added (on-disk size: 10575.5 KB)
+0089.937 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 2200 files added (on-disk size: 10575.5 KB)
+0090.583 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 381 (2283) files added so far); re-opening (prior size: 10575.5 KB)
+0098.702 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 2300 files added (on-disk size: 11170.6 KB)
+0099.347 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 2400 files added (on-disk size: 11170.6 KB)
+0100.013 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 2500 files added (on-disk size: 11170.6 KB)
+0100.581 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 305 (2588) files added so far); re-opening (prior size: 11170.6 KB)
+0106.046 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip.tmp: 2600 files added (on-disk size: 11718.5 KB)
+0110.203 (0) Created plugins zip (0) - 11846.6 KB in 108.9 s (108.8 KB/s) (sha1: 22a6f7a902abda5151d8e05389cb8e258afda370, sha256: 0fdba1e0bce4524374a6f8bd02acf315e5df5ea5cc004cc333bfa935ce74b9fd)
+0110.250 (0) Beginning creation of dump of themes (split every: 400 MB)
+0114.132 (0) Total entities for the zip file: 51 directories, 323 files (0 skipped as non-modified), 5.9 MB
+0114.171 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0114.571 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-themes.zip.tmp: 100 files added (on-disk size: 7 KB)
+0114.986 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-themes.zip.tmp: 200 files added (on-disk size: 7 KB)
+0115.492 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-themes.zip.tmp: 300 files added (on-disk size: 7 KB)
+0125.005 (0) Created themes zip (0) - 4720.9 KB in 14.7 s (320.5 KB/s) (sha1: 5c801932bf01e3558076c2ad6f9f82ca42863898, sha256: 098ef074a42a041d21180286e49ee97e28fd91555ca9768129b23f7b7a9ded02)
+0125.055 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0125.070 (0) Looking for candidates to back up in: D:\home\site\wwwroot/wp-content/uploads
+0125.096 (0) finding files: 2017: adding to list (1)
+0125.111 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0128.620 (0) Total entities for the zip file: 5 directories, 368 files (0 skipped as non-modified), 27.9 MB
+0128.645 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0129.403 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-uploads.zip.tmp: 100 files added (on-disk size: 19.7 KB)
+0129.795 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-uploads.zip.tmp: 200 files added (on-disk size: 19.7 KB)
+0130.099 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 368 files batched, 270 (271) added so far); re-opening (prior size: 19.7 KB)
+0164.375 (0) A useful amount of data was added after this amount of zip processing: 35.8 s (normalised: 35.7 s, rate: 716.2 KB/s)
+0164.599 (0) Zip: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-uploads.zip.tmp: 300 files added (on-disk size: 25421.6 KB)
+0177.225 (0) Created uploads zip (0) - 28305.6 KB in 52.1 s (543.8 KB/s) (sha1: 96c932d91d99f7619de8f30b2913250a49bde2cb, sha256: 140dc47b0dc711c98fe7cfbab3748ccccc6e489410386b3531536254d841fdd8)
+0177.261 (0) Beginning backup of other directories found in the content directory (index: 0)
+0177.274 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0177.293 (0) Looking for candidates to back up in: D:\home\site\wwwroot/wp-content
+0177.307 (0) finding files: index.php: adding to list (1)
+0177.321 (0) finding files: plugins: skipping: this is the plugins directory
+0177.337 (0) finding files: themes: skipping: this is the themes directory
+0177.377 (0) finding files: updraft: skipping: this is the updraft directory
+0177.409 (0) finding files: upgrade: skipping: excluded by options
+0177.423 (0) finding files: uploads: skipping: this is the uploads directory
+0177.475 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0177.615 (0) Created others zip (0) - 0.1 KB in 0.2 s (0.9 KB/s) (sha1: 65f7b11a9406632848263ca87830e317b03e7a73, sha256: 97bd757df92c04b25791bf502d52aa7df9205da8ab666bccf3b065f952200567)
+0177.687 (0) Saving backup status to database (elements: 8)
+0177.731 (0) Beginning creation of database dump (WordPress DB)
+0178.308 (0) Testing: D:\Program Files\MySQL\MySQL Server 5.1\bin\mysqldump.exe
+0178.614 (0) Binary mysqldump: error (code: 2)
+0178.951 (0) Table wp_options: Total expected rows (approximate): 481
+0179.123 (0) Table wp_options: Total rows added: 485 in 0.16 seconds
+0179.144 (0) Table wp_options: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_options.table.gz - 160 KB)
+0179.206 (0) Table wp_users: Total expected rows (approximate): 0
+0179.222 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0179.241 (0) Table wp_users: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_users.table.gz - 0.6 KB)
+0179.819 (0) Table wp_usermeta: Total expected rows (approximate): 27
+0179.836 (0) Table wp_usermeta: Total rows added: 27 in 0.00 seconds
+0179.853 (0) Table wp_usermeta: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_usermeta.table.gz - 1.4 KB)
+0180.361 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0180.385 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0180.402 (0) Table wp_commentmeta: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0180.531 (0) Table wp_comments: Total expected rows (approximate): 2
+0180.577 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0180.603 (0) Table wp_comments: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_comments.table.gz - 0.7 KB)
+0180.943 (0) Table wp_links: Total expected rows (approximate): 0
+0180.960 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0181.009 (0) Table wp_links: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_links.table.gz - 0.4 KB)
+0181.093 (0) Table wp_postmeta: Total expected rows (approximate): 646
+0181.168 (0) Table wp_postmeta: Total rows added: 705 in 0.03 seconds
+0181.213 (0) Table wp_postmeta: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_postmeta.table.gz - 15 KB)
+0181.348 (0) Table wp_posts: Total expected rows (approximate): 746
+0182.361 (0) Table wp_posts: Total rows added: 587 in 1.00 seconds
+0182.401 (0) Table wp_posts: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_posts.table.gz - 77.2 KB)
+0182.499 (0) Table wp_term_relationships: Total expected rows (approximate): 35
+0182.514 (0) Table wp_term_relationships: Total rows added: 36 in 0.00 seconds
+0182.564 (0) Table wp_term_relationships: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0182.615 (0) Table wp_term_taxonomy: Total expected rows (approximate): 6
+0182.632 (0) Table wp_term_taxonomy: Total rows added: 7 in 0.00 seconds
+0182.652 (0) Table wp_term_taxonomy: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0182.746 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0182.795 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0182.811 (0) Table wp_termmeta: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_termmeta.table.gz - 0.4 KB)
+0182.915 (0) Table wp_terms: Total expected rows (approximate): 6
+0182.931 (0) Table wp_terms: Total rows added: 7 in 0.00 seconds
+0182.951 (0) Table wp_terms: finishing file (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_terms.table.gz - 0.5 KB)
+0183.058 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_options.table.gz (1/12): adding to final database dump
+0183.149 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_users.table.gz (2/12): adding to final database dump
+0183.175 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0183.195 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0183.215 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0183.238 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_links.table.gz (6/12): adding to final database dump
+0183.257 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0183.287 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0183.369 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0183.416 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0183.432 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0183.453 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0183.476 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db.gz: finished writing out complete database file (0 KB)
+0183.624 (0) Total database tables backed up: 12 (backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db.gz, size: 261451, sha256)
+0183.792 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0183.805 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0183.889 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0183.905 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-others.zip: others: This file has not yet been successfully uploaded: will queue
+0183.928 (0) backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0183.940 (0) Saving backup history. Total backup size: 44.1 MB
+0183.975 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0184.021 (0) Cloud backup selection (1/1): none (last)
+0184.035 (0) No remote despatch: user chose no remote backup service
+0184.062 (0) Recording as successfully uploaded: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-plugins.zip (6635e00fc2d46c54dbe3bf8cb1bf7f93)
+0184.277 (0) Recording as successfully uploaded: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-themes.zip (6ae0e86340081c217a5f09dcdf5458bc)
+0184.354 (0) Recording as successfully uploaded: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-uploads.zip (2639f513777f5883b713556b998b3e8f)
+0184.436 (0) Recording as successfully uploaded: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-others.zip (ae4a36942e96bcc45bca0d15f41a21c0)
+0184.522 (0) Recording as successfully uploaded: backup_2017-09-24-1133_chessacrossbordersazurewebsites_bf8f755441d1-db.gz (7ad47e2df5e418788aefacecffdf94dd)
+0184.798 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0184.834 (0) Number of backup sets in history: 3; groups (db): 1
+0184.884 (0) Examining (for databases) backup set with group_id=0, nonce=bf8f755441d1, datestamp=1506267186 (Sep 24 2017 15:33:06)
+0184.907 (0) This backup set is the backup set just made, so will not be deleted.
+0184.908 (0) Examining (for databases) backup set with group_id=0, nonce=585419336107, datestamp=1506061075 (Sep 22 2017 06:17:55)
+0184.909 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0184.921 (0) Examining (for databases) backup set with group_id=0, nonce=656ba89fb0f0, datestamp=1505528939 (Sep 16 2017 02:28:59)
+0184.922 (0) 1505528939: db: this set includes a database (backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-db.gz); db count is now 2
+0184.922 (0) 1505528939: db: over retain limit (2); will delete this database
+0184.923 (0) Delete file: backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-db.gz, service=none
+0184.937 (0) Deleting local copy (backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-db.gz)
+0184.969 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0184.981 (0) Number of backup sets in history: 3; groups (files): 1
+0184.994 (0) Examining (for files) backup set with nonce=bf8f755441d1, datestamp=1506267186 (Sep 24 2017 15:33:06)
+0184.995 (0) This backup set is the backup set just made, so will not be deleted.
+0185.012 (0) This backup set is the backup set just made, so will not be deleted.
+0185.013 (0) This backup set is the backup set just made, so will not be deleted.
+0185.014 (0) This backup set is the backup set just made, so will not be deleted.
+0185.015 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0185.028 (0) Examining (for files) backup set with nonce=585419336107, datestamp=1506061075 (Sep 22 2017 06:17:55)
+0185.028 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0185.030 (0) Examining (for files) backup set with nonce=656ba89fb0f0, datestamp=1505528939 (Sep 16 2017 02:28:59)
+0185.031 (0) plugins: over retain limit (2); will delete this file entity
+0185.031 (0) themes: over retain limit (2); will delete this file entity
+0185.032 (0) uploads: over retain limit (2); will delete this file entity
+0185.033 (0) others: over retain limit (2); will delete this file entity
+0185.034 (0) Delete file: backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-plugins.zip, service=none
+0185.086 (0) Deleting local copy (backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-plugins.zip)
+0185.102 (0) Delete file: backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-themes.zip, service=none
+0185.151 (0) Deleting local copy (backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-themes.zip)
+0185.167 (0) Delete file: backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-uploads.zip, service=none
+0185.187 (0) Deleting local copy (backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-uploads.zip)
+0185.207 (0) Delete file: backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-others.zip, service=none
+0185.223 (0) Deleting local copy (backup_2017-09-15-2228_Chess_Across_Borders_656ba89fb0f0-others.zip)
+0185.252 (0) This backup set is now empty; will remove from history
+0185.265 (0) Deleting log file (log.656ba89fb0f0.txt)
+0185.280 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0185.363 (0) Resume backup (bf8f755441d1, 0): finish run
+0185.469 (0) Decremented the semaphore (fd) by 1
+0185.493 (0) Semaphore (fd) unlocked
+0185.507 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0185.552 (0) No email will/can be sent - the user has not configured an email address.
+0185.569 (0) The backup apparently succeeded and is now complete
